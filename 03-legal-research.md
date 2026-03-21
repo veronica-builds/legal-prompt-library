@@ -28,7 +28,6 @@ Provide:
 Use formal memo style. Clearly distinguish majority from minority positions.
 ```
 
-*Source: The Legal Prompts*
 
 ---
 
@@ -200,7 +199,6 @@ Explain the concept of [LEGAL DOCTRINE / TERM] in clear terms. Include:
 Target audience: [business executive / non-lawyer client / junior associate]
 ```
 
-*Source: GitHub / codewithbernard*
 
 ---
 

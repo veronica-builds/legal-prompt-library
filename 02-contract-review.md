@@ -23,7 +23,6 @@ Organize your response as a clause-by-clause analysis with section references.
 [PASTE CONTRACT]
 ```
 
-*Source: The Legal Prompts*
 
 ---
 
@@ -110,7 +109,6 @@ Clause A: [PASTE]
 Clause B: [PASTE]
 ```
 
-*Source: The Legal Prompts*
 
 ---
 

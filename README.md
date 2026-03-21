@@ -43,17 +43,16 @@ Prompts that work well in practice are welcome. Please include:
 ## Sources
 
 Prompts in this library are sourced and adapted from:
-- [Ten Things Blog — 100 Practical GenAI Prompts for In-House Lawyers](https://tenthings.blog)
-- [The Legal Prompts](https://thelegalprompts.com)
-- [Clio Blog](https://clio.com/blog/chat-gpt-prompts/)
-- [MyCase Blog](https://mycase.com/blog/ai/chatgpt-for-lawyers/)
-- [Spellbook Legal](https://spellbook.legal/learn/chatgpt-for-lawyers)
-- [CasePeer Blog](https://casepeer.com/blog/chatgpt-prompts-for-lawyers/)
-- [Tavrn.ai](https://tavrn.ai/blog/ai-prompting-for-lawyers)
-- [Leah AI / ContractPodAi](https://leahai.com/news/ai-prompts-for-legal-professionals)
-- [Widener Law Library LibGuide](https://libguides.law.widener.edu)
-- [GitHub: TracyWang95/legal-prompts-for-gpt](https://github.com/TracyWang95/legal-prompts-for-gpt)
-- [GitHub: codewithbernard/chat-gpt-prompts-for-lawyers](https://github.com/codewithbernard/chat-gpt-prompts-for-lawyers)
+- [Ten Things Blog — "100 Practical GenAI Prompts for In-House Lawyers" by Sterling Miller](https://tenthings.blog/2025/03/31/ten-things-practical-generative-ai-prompts-for-in-house-lawyers/) — Miller is a former General Counsel at Marketo and Sabre with nearly 25 years of in-house experience
+- [Clio Blog — "ChatGPT Prompts for Lawyers"](https://clio.com/blog/chat-gpt-prompts/) — published by Clio, a leading legal practice management platform
+- [MyCase Blog — "ChatGPT for Lawyers"](https://mycase.com/blog/ai/chatgpt-for-lawyers/) — published by MyCase, a legal practice management platform (owned by 8am, LLC)
+- [CasePeer Blog — "Top 40 ChatGPT Prompts for Lawyers"](https://casepeer.com/blog/chatgpt-prompts-for-lawyers/) — published by CasePeer, a personal injury case management platform (also owned by 8am, LLC)
+- [Spellbook Legal — "ChatGPT for Lawyers: 20+ Prompts That Actually Work"](https://spellbook.legal/learn/chatgpt-for-lawyers)
+- [Tavrn.ai — "Complete Guide to AI Prompting for Lawyers"](https://tavrn.ai/blog/ai-prompting-for-lawyers)
+- [Leah AI (formerly ContractPodAi) — "AI Prompts for Legal Professionals"](https://leahai.com/news/ai-prompts-for-legal-professionals) — source of the ABCDE prompting framework
+- [Widener University Delaware Law Library — "Generative AI & Legal Research" LibGuide](https://libguides.law.widener.edu/c.php?g=1342893&p=10038411)
+- [NC Bar Association — "Prompt Engineering 101 for Lawyers" by Catherine Sanders Reach](https://www.ncbar.org/nc-lawyer/2024-08/prompt-engineering-101-for-lawyers/) — published in *North Carolina Lawyer* magazine (August 2024); source of the RICE framework
+- [GitHub: TracyWang95/legal-prompts-for-gpt](https://github.com/TracyWang95/legal-prompts-for-gpt) — community-contributed open source repo (Notre Dame Law graduate)
 
 ---
 

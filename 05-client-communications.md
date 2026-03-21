@@ -34,7 +34,6 @@ The letter should:
 Tone: Firm, professional, and factual. Not threatening or inflammatory.
 ```
 
-*Source: The Legal Prompts*
 
 ---
 
@@ -86,7 +85,6 @@ statutory damages and attorney fees. Maintain a professional tone that allows fo
 amicable resolution while demonstrating the strength of the position.
 ```
 
-*Source: The Legal Prompts*
 
 ---
 
@@ -110,7 +108,6 @@ Tone: Professional but accessible for business executives.
 Length: Maximum 1–2 pages.
 ```
 
-*Source: The Legal Prompts*
 
 ---
 
@@ -139,7 +136,7 @@ Length: Under 500 words. Use bullet points for action items.
 Do not include legal citations unless necessary for client understanding.
 ```
 
-*Source: The Legal Prompts / Clio*
+*Source: Clio*
 
 ---
 

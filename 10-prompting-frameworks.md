@@ -53,7 +53,7 @@ HR audit next month.
 Length: 1 page.
 ```
 
-*Source: NC Bar Association (2024)*
+*Source: [NC Bar Association — "Prompt Engineering 101 for Lawyers" by Catherine Sanders Reach](https://www.ncbar.org/nc-lawyer/2024-08/prompt-engineering-101-for-lawyers/), published in North Carolina Lawyer magazine (August 2024)*
 
 ---
 

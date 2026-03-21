@@ -28,7 +28,6 @@ Analyze:
 Provide candid analysis, not optimistic predictions.
 ```
 
-*Source: The Legal Prompts*
 
 ---
 
@@ -47,7 +46,6 @@ I will paste opposing counsel's motion. Please analyze it and help me prepare a 
 [PASTE FULL MOTION]
 ```
 
-*Source: The Legal Prompts*
 
 ---
 

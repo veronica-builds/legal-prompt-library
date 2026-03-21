@@ -54,7 +54,6 @@ For each requirement, include:
 Present as a Markdown table suitable for compliance tracking.
 ```
 
-*Source: The Legal Prompts*
 
 ---
 

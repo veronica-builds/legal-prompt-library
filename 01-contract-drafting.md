@@ -25,7 +25,6 @@ Use formal legal conventions. Define all capitalized terms. Include cross-refere
 Flag areas needing client-specific input with [ATTORNEY NOTE] annotations.
 ```
 
-*Source: The Legal Prompts*
 
 ---
 
