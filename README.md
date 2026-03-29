@@ -56,4 +56,4 @@ Prompts in this library are sourced and adapted from:
 
 ---
 
-*Maintained by [@Vibe-Coding-Lawyer](https://github.com/Vibe-Coding-Lawyer)*
+*Maintained by [@veronica-builds](https://github.com/veronica-builds)*
